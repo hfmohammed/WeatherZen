@@ -21,5 +21,5 @@ Make sure you are in the 'WeatherZen' directory then run the following line
 4. run ```python3 weatherApi.py``` and follow the instructions in the console 
 
 ## Contact
-Hassan Mohammed - [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hfmohammed)
+Hassan Mohammed - [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hfmohammed) @hfmohammed
 
